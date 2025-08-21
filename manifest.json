@@ -1,8 +1,10 @@
 {
   "manifest_version": 3,
   "name": "OpenAI Log Line Breaks",
-  "version": "1.0",
-  "description": "Show whitespace in prompts in OpenAI log views",
+  "version": "1.0.0",
+  "description": "Show whitespace in user prompts in OpenAI log views",
+  "author": "Philip Davies",
+  "homepage_url": "https://github.com/pdavies/openai-log-line-breaks",
   "permissions": [
     "activeTab"
   ],
